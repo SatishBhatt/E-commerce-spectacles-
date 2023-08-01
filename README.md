@@ -46,7 +46,7 @@ Contact us
 
 End of page
 
-![Screenshot (34)](https://user-images.githubusercontent.com/119325734/204311728-c3763233-c378-4ce6-9f23-2141778f6b79.png)
+
 
 ### Developed with
 
